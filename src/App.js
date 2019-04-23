@@ -37,7 +37,6 @@ class App extends React.Component{
     let click = this.state.click
     click.push(name)    
     this.setState({ click })
-    console.log(this.state.click)
   }
 
 
