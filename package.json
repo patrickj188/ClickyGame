@@ -1,6 +1,6 @@
 {
   "name": "clickygame",
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage": "http://myname.github.io/myapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
